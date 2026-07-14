@@ -66,19 +66,19 @@ Bu iki at Allahyň atlaryndandyr. Olar Allah Tagalanyň Öz beýikligine mynasyp
         }
 
         .back-button {
-          background: rgba(139, 90, 43, 0.85);
-          border: 2px solid #d4af7a;
+          background: rgba(139, 90, 43, 0.25);
+          border: 1.5px solid rgba(212, 175, 122, 0.5);
           color: #f4e4c1;
-          padding: 0.75rem 1.5rem;
-          border-radius: 12px;
-          font-size: 1rem;
+          padding: 0.45rem 0.9rem;
+          border-radius: 10px;
+          font-size: 0.85rem;
           font-weight: 600;
           cursor: pointer;
           display: flex;
           align-items: center;
-          gap: 0.5rem;
+          gap: 0.4rem;
           transition: all 0.3s ease;
-          backdrop-filter: blur(10px);
+          backdrop-filter: blur(6px);
           position: fixed;
           top: 1rem;
           left: 1rem;
